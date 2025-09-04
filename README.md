@@ -24,9 +24,6 @@ Currently working @ [Wildberries](https://github.com/wildberries-tech) in the WH
 - [**service-pkg**](https://github.com/PavelAgarkov/service-pkg)  
   Core utilities and abstractions for Go microservices (logging, config, graceful shutdown, etc.).
 
-- [**cloud-template-sdk**](https://github.com/PavelAgarkov/cloud-template-sdk) *(internal/public hybrid)*  
-  Generic application kernel for Go services (App lifecycle, watchdog leader election, memory releaser).
-
 ---
 
 ## 📈 Contributions & Impact

@@ -8,7 +8,7 @@ Currently working @ [Wildberries](https://github.com/wildberries-tech) in the WH
 
 ## 🛠️ Tech Stack & Expertise
 - **Languages:** Go (primary), Rust (exploring), SQL
-- **Databases:** PostgreSQL, ClickHouse, Redis, BadgerDB
+- **Databases:** PostgreSQL, ClickHouse, Redis, BadgerDB, MongoDB
 - **Messaging & Streaming:** Kafka
 - **Concurrency & Scheduling:** custom frameworks (rate-envelope-queue, service-pkg, job schedulers)
 - **Cloud & Infra:** Docker, Linux (memory management, GC tuning, performance profiling)

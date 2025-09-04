@@ -28,7 +28,7 @@ Currently working @ [Wildberries](https://github.com/wildberries-tech) in the WH
 
 ## 📈 Contributions & Impact
 - Refactored legacy systems into scalable microservices at Wildberries.
-- Designed custom caching layer (`shepherd-cache`) with BadgerDB for high-throughput workloads.
+- Designed custom caching layer (`cache`) with BadgerDB for high-throughput workloads.
 - Mentored engineers (junior → mid-level growth) for the last 1.5 years.
 - Active in open-source: publishing frameworks and SDKs for the Go community.
 

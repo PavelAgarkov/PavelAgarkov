@@ -21,8 +21,11 @@ Currently working @ [Wildberries](https://github.com/wildberries-tech) in the WH
   In-memory task queue & scheduler for Go with hooks, backpressure, and drain/stop lifecycle.  
   Benchmarked at **7.3M ops/sec** for one-shot tasks.
 
-- [**service-pkg**](https://github.com/PavelAgarkov/service-pkg)  
+- [**service-template**](https://github.com/PavelAgarkov/service-template)  
   Core utilities and abstractions for Go microservices (logging, config, graceful shutdown, etc.).
+
+  - [**kernel**](https://github.com/PavelAgarkov/kernel)  
+  Core framework for graceful shutdown convenience. (kernel, leader-election, init connections to important connections).
 
 ---
 

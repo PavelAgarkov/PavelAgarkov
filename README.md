@@ -16,6 +16,18 @@ Currently working @ [Wildberries](https://github.com/wildberries-tech) in the WH
 
 ---
 
+## 📊 Languages across my public repos (auto-updating %)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PavelAgarkov&layout=compact&langs_count=10&hide_border=true&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PavelAgarkov&layout=compact&langs_count=10&hide_border=true">
+  <img alt="Top languages by % (public repos)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavelAgarkov&layout=compact&langs_count=10&hide_border=true">
+</picture>
+
+> Плашка строится по «байтам кода» в публичных репозиториях и автоматически обновляется.  
+> При желании можно увеличить `langs_count` или скрыть языки через `&hide=HTML,CSS`.
+
+---
+
 ## 🚀 Open Source Projects
 - [**rate-envelope-queue**](https://github.com/PavelAgarkov/rate-envelope-queue)  
   In-memory task queue & scheduler for Go with hooks, backpressure, and drain/stop lifecycle.  

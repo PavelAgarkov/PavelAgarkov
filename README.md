@@ -84,6 +84,8 @@ Currently working @ [Wildberries](https://github.com/wildberries-tech) in the WH
 ---
 
 ## 🚀 Open Source Projects
+  Founder & Lead Maintainer of OSS organisation [simplegear](https://github.com/simplegear)
+  
 - [**rate-envelope-queue**](https://github.com/PavelAgarkov/rate-envelope-queue)  
   In-memory task queue & scheduler for Go with hooks, backpressure, and drain/stop lifecycle.  
   Benchmarked at **3.3M ops/sec** for one-shot tasks.

@@ -1,8 +1,7 @@
 # Hi there, I'm Pavel 👋
 
-I'm a **Staff-level Go backend engineer** with **7+ years** of professional experience (**4+ focused on Go**).  
-I specialize in **distributed systems**, **in-memory databases**, and **high-performance services**.  
-Currently working @ [Wildberries](https://github.com/wildberries-tech) in the WH-S AI division.
+I'm a **Staff-level Go backend engineer** with **7.5+ years** of professional experience (**5+ focused on Go**).  
+I specialize in **distributed systems**, **in-memory databases**, and **high-performance services**.
 
 ---
 
@@ -46,31 +45,6 @@ Currently working @ [Wildberries](https://github.com/wildberries-tech) in the WH
 - **Leader election**, **CDC replication**, **backpressure**, **idempotency**
 - **Drain/Stop lifecycles**, **graceful shutdown**, **retries & backoff**
 - **Binary encodings**, **roaring bitmaps**, memory-efficient K/V layouts
-
----
-
-<!-- Badges (optional) -->
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![BadgerDB](https://img.shields.io/badge/BadgerDB-444)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Tarantool](https://img.shields.io/badge/Tarantool-2B2B2B)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
-![etcd](https://img.shields.io/badge/etcd-419EDA)
-![gRPC](https://img.shields.io/badge/gRPC-1E88E5)
-![Protobuf](https://img.shields.io/badge/Protobuf-DBA514)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Kubernetes client-go](https://img.shields.io/badge/Kubernetes%20client--go-326CE5?logo=kubernetes&logoColor=white)
-![Zap](https://img.shields.io/badge/zap%20logger-5E5E5E)
 
 ---
 

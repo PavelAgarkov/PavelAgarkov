@@ -64,7 +64,7 @@ I specialize in **distributed systems**, **in-memory databases**, and **high-per
   In-memory task queue & scheduler for Go with hooks, backpressure, and drain/stop lifecycle.  
   Benchmarked at **3.3M ops/sec** for one-shot tasks.
 
-- [**service-template**](https://github.com/PavelAgarkov/service-template)  
+- [**template**](https://github.com/PavelAgarkov/template)  
   Core utilities and abstractions for Go microservices (logging, config, graceful shutdown, etc.).
 
 - [**kernel**](https://github.com/PavelAgarkov/kernel)  
